@@ -1,0 +1,30 @@
+.card{
+    width: 360px;
+}
+
+body{
+    background: #0062FF;
+}
+
+.grup{
+    position: relative;
+}
+.none{
+    position: absolute;
+    top: 40px;
+    left: 276px;
+}
+.line{
+    display: inline-block;
+    width: 40px;
+    height: 4px;
+    background: #E2E2EA;;
+}
+
+.write2{
+    text-align: center;
+
+    color: #0062FF;
+}
+
+ 
